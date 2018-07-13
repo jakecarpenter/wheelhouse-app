@@ -1,0 +1,8 @@
+{
+  "name": "wheelhouse-app",
+  "app_id": "ddfe8031",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
